@@ -8,7 +8,7 @@ By Zijian Liu
 The code is coming soon
 # Visualization results
 
-The results of our method on the CAMO COD10K and NC4K datasets can be found in xx
+The results of our method on the CAMO COD10K and NC4K datasets can be found in https://pan.baidu.com/s/122LumUto3DktvsPmei2UWQ 提取码: 1234 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ### Citation
 ```
