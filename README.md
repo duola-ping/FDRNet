@@ -11,6 +11,8 @@ The code is coming soon
 The results of our method on the CAMO COD10K and NC4K datasets can be found in https://pan.baidu.com/s/122LumUto3DktvsPmei2UWQ     (PVT)
 
 The results of res2net as a backbone network are in https://pan.baidu.com/s/1IjMMMG3hD66b98uPpJz_MA?pwd=p82e 
+
+polyp segmentation dataset link https://pan.baidu.com/s/13l_wcLoz0695uPEzqSMuZA?pwd=e796 
 ### Citation
 ```
   @article{liu2024edge,
